@@ -1,0 +1,14 @@
+﻿  corn.cpp
+  Game.cpp
+  GameObject.cpp
+  main.cpp
+  Map.cpp
+C:\Dev\BirchEngine - Textures\BirchEngine\Src\Map.cpp(146,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  oat.cpp
+  TextureManager.cpp
+  wheat.cpp
+  Generowanie kodu...
+C:\Dev\BirchEngine - Textures\BirchEngine\Src\wheat.cpp(25,1): warning C4715: "Wheat::Growing”: niewszystkie ścieżki kodu zwracają wartość
+C:\Dev\BirchEngine - Textures\BirchEngine\Src\oat.cpp(25,1): warning C4715: "Oat::Growing”: niewszystkie ścieżki kodu zwracają wartość
+C:\Dev\BirchEngine - Textures\BirchEngine\Src\corn.cpp(25,1): warning C4715: "Corn::Growing”: niewszystkie ścieżki kodu zwracają wartość
+  BirchEngine.vcxproj -> C:\Dev\BirchEngine - Textures\bin\Win32\Debug\BirchEngine.exe
